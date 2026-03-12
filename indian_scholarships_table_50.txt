@@ -1,0 +1,155 @@
+50 Scholarships for Indian Students (Table Format)
+
+  ------------------------------------------------------------------------------------------------
+  No   Scholarship Name     Level           Eligibility           Amount              Apply Time
+  ---- -------------------- --------------- --------------------- ------------------- ------------
+  1    Central Sector       National        Class 12 ≥80%, income ₹12k–₹20k/year      Jun–Oct
+       Scheme Scholarship                   ≤4.5L                                     
+
+  2    National             National        Class 8 govt school,  ₹12k/year           Aug–Nov
+       Means‑cum‑Merit                      income ≤3.5L                              
+       Scholarship (NMMS)                                                             
+
+  3    AICTE Pragati        National        Girls in technical    ₹50k/year           Jul–Sep
+       Scholarship                          courses                                   
+
+  4    AICTE Saksham        National        Disabled technical    ₹50k/year           Jul–Sep
+       Scholarship                          students                                  
+
+  5    AICTE Swanath        National        Orphan/COVID affected ₹50k/year           Jul–Sep
+       Scholarship                          students                                  
+
+  6    Post‑Matric          National        SC students           ₹3k–₹13k/year       Jun–Oct
+       Scholarship SC                                                                 
+
+  7    Post‑Matric          National        ST students           ₹3k–₹13k/year       Jun–Oct
+       Scholarship ST                                                                 
+
+  8    Post‑Matric          National        OBC income ≤1L        ₹3k–₹13k/year       Jun–Oct
+       Scholarship OBC                                                                
+
+  9    Merit‑cum‑Means      National        Minority students     ₹20k/year           Jun–Oct
+       Scholarship                                                                    
+
+  10   Pre‑Matric Minority  National        Class 1–10 minority   ₹500–₹1000/month    Jun–Sep
+       Scholarship                                                                    
+
+  11   Post‑Matric Minority National        Minority students     ₹3000/year          Jun–Oct
+       Scholarship                                                                    
+
+  12   Top Class Education  National        SC students in top    Up to ₹2L/year      Jun–Oct
+       Scheme (SC)                          colleges                                  
+
+  13   Top Class Education  National        ST students           Full fee + stipend  Jun–Oct
+       Scheme (ST)                                                                    
+
+  14   PM YASASVI           National        OBC/EBC class 9–12    ₹75k–₹1.25L         Jul–Sep
+       Scholarship                                                                    
+
+  15   Prime Minister       National        Children of           ₹2000–₹3000/month   Aug–Oct
+       Scholarship Scheme                   defence/police                            
+
+  16   UGC PG Scholarship   National        PG girl students      ₹36k/year           Oct–Dec
+       for Single Girl                                                                
+       Child                                                                          
+
+  17   UGC PG Scholarship   National        University toppers    ₹3100/month         Oct–Dec
+       for Rank Holders                                                               
+
+  18   National Fellowship  National        PhD ST students       ₹31k/month          Jul–Oct
+       for ST Students                                                                
+
+  19   Ishan Uday           National        North‑East UG         ₹5400–₹7800/month   Aug–Oct
+       Scholarship                          students                                  
+
+  20   Scholarship for      National        40% disability        ₹10k–₹1L/year       Jun–Oct
+       Students with                                                                  
+       Disabilities                                                                   
+
+  21   NEC Merit            National        North‑East students   ₹20k/year           Jul–Oct
+       Scholarship                                                                    
+
+  22   Railway PM           National        Railway employees     ₹2500/month         Jul–Oct
+       Scholarship                          children                                  
+
+  23   Beedi Workers        National        Labour worker         ₹1000–₹25k          Jul–Oct
+       Scholarship                          children                                  
+
+  24   Cine Workers         National        Film worker children  ₹1000–₹25k          Jul–Oct
+       Scholarship                                                                    
+
+  25   National Overseas    National        SC/ST abroad study    Up to ₹15L          Jan–Mar
+       Scholarship                                                                    
+
+  26   Mukhyamantri Yuva    Gujarat         12th ≥80%             ₹50k fee support    Aug–Oct
+       Swavalamban Yojana                                                             
+       (MYSY)                                                                         
+
+  27   Gyan Sadhana Merit   Gujarat         Class 9–12 merit test ₹20k/year           Jun–Jul
+       Scholarship                                                                    
+
+  28   Gyan Setu Merit      Gujarat         Primary students      ₹10k/year           Jun–Jul
+       Scholarship                                                                    
+
+  29   Namo Lakshmi Yojana  Gujarat         Girls class 9–12      ₹10k–₹15k/year      Jun–Aug
+
+  30   Namo Saraswati       Gujarat         Science stream        ₹25k                Jun–Aug
+       Vigyan Sadhana                                                                 
+
+  31   Gujarat Post‑Matric  Gujarat         SC/ST/OBC students    ₹5k–₹20k            Aug–Oct
+       Scholarship                                                                    
+
+  32   Food Bill Assistance Gujarat         Hostel students       ₹15k/year           Aug–Oct
+       Scheme                                                                         
+
+  33   Instrument           Gujarat         Technical students    ₹10k                Aug–Oct
+       Assistance Scheme                                                              
+
+  34   Laptop Assistance    Gujarat         Engineering/Diploma   Laptop subsidy      Aug–Oct
+       Scheme                               students                                  
+
+  35   CM Scholarship for   Gujarat         Merit students        ₹20k–₹1L            Aug–Oct
+       Higher Education                                                               
+
+  36   Tata Scholarship     Private         Low‑income students   ₹12k–₹50k           Jul–Sep
+       Program                                                                        
+
+  37   HDFC Parivartan ECSS Private         UG/PG students        ₹15k–₹75k           Aug–Dec
+
+  38   SBI Asha Scholarship Private         Merit students        ₹50k                Sep–Oct
+
+  39   Kotak Kanya          Private         Girls                 ₹1.5L/year          Aug–Sep
+       Scholarship                          engineering/medical                       
+
+  40   Foundation for       Private         Engineering students  ₹50k–₹1L            Aug–Dec
+       Excellence                                                                     
+       Scholarship                                                                    
+
+  41   LIC Golden Jubilee   Private         Class 12 passed       ₹20k/year           Sep–Oct
+       Scholarship                                                                    
+
+  42   Aditya Birla         Private         Top college students  ₹60k–₹1.8L          Sep–Oct
+       Scholarship                                                                    
+
+  43   ONGC Scholarship     Private         Engineering/MBBS      ₹48k/year           Jul–Aug
+
+  44   Reliance Foundation  Private         UG students           Up to ₹2L           Aug–Oct
+       Scholarship                                                                    
+
+  45   Sitaram Jindal       Private         All streams           ₹500–₹3000/month    Anytime
+       Scholarship                                                                    
+
+  46   Nikon Scholarship    Private         Photography students  ₹1L                 Oct–Dec
+
+  47   Mahindra All India   Private         Diploma students      ₹10k/year           Jun–Jul
+       Talent Scholarship                                                             
+
+  48   L&T Build India      Private         Engineering students  Full fees           Oct–Nov
+       Scholarship                                                                    
+
+  49   Google Generation    Private         Computer science      $1000               Apr–May
+       Scholarship                          students                                  
+
+  50   Fulbright‑Nehru      International   Masters abroad        Fully funded        Feb–May
+       Scholarship                                                                    
+  ------------------------------------------------------------------------------------------------
